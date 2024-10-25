@@ -1,3 +1,5 @@
+#this file simply shows the code that controls the bot, the actual game is in the nim_game.py
+
 import random
 
 piles = [0,0,0]
