@@ -23,7 +23,7 @@ def winningANDlosing(loser, winner, names, piles):
         print(f'{names[1]} has been forced to take the last counter')
         print(f'{winner} wins')
     elif winner == names[1]:
-        print(f'{names[0]} has been forced to take the last counterr')
+        print(f'{names[0]} has been forced to take the last counter')
         print(f'{winner} wins')
 
 # The fucntion game_rendering is mostly for a bit of visual aesthetic as it shows a countdown until the game starts
